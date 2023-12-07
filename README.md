@@ -6,3 +6,4 @@ For cloning the project. Clone and run command on terminal "npm i " or "npm inst
 HERE ARE THE LIVE LINKS OF THE PROJECTS
 
 Project 1 BRAND PAGE : https://reactjs-brand-page.netlify.app/
+Project 2 WEATHER APP : https://2-weather-react.netlify.app/
